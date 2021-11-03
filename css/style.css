@@ -1313,7 +1313,7 @@ header .container {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
   position: relative;
-  background-image: url(/imgs/stats.jpg);
+  background-image: url(imgs/stats.jpg);
   background-size: cover;
   min-height: 300px;
 }
