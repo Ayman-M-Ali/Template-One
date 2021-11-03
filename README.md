@@ -1,3 +1,3 @@
-## HTML And CSS Template 3
+## HTML And CSS Template
 
 Created by Pure HTML & CSS Tamplate
