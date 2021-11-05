@@ -1391,7 +1391,6 @@ header .container {
 .discount {
   display: flex;
   flex-wrap: wrap;
-  height: 100vh;
 }
 .discount .content {
   text-align: center;
@@ -1443,6 +1442,7 @@ header .container {
   justify-content: center;
   align-items: center;
   flex-basis: 50%;
+  padding-blocks: 40px;
 }
 @media (max-width: 991px) {
   .discount .form {
